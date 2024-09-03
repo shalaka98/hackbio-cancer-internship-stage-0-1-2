@@ -2,7 +2,7 @@ Machine learning is a branch of AI, allows system to learn and make predictions.
 
  
 
-What is the Curse of Dimensionality?
+## What is the Curse of Dimensionality?
 
 It is a phenomenon where algorithms become less effective as data dimensions increase, leading to sparse data and difficulty in identifying patterns. This could lead to higher computational complexity, longer training times, and inaccurate results.
 
@@ -30,13 +30,13 @@ This technique combines the advantages of both filter/extraction methods and wra
 
 It involves two stages: first, a filter/extraction method is used to identify the most relevant features from the dataset and next stage a wrapper method evaluates these identified feature subsets to ensure they yield higher classification accuracy (Aziz et al., 2017). This approach employs various evaluation criteria at different search stages to enhance efficiency, improve classification accuracy, and achieve better computational performance (Chuang et al., 2011).
 
-Conclusion:
+#Conclusion:
 
 Though the 'curse of dimensionality' creates limitations for classification and interpretation in cancer prediction using machine learning, techniques like feature selection, feature extraction, and hybrid methods help reduce irrelevant features, enhancing accuracy and efficiency in cancer research.
 
  
 
-Reference:
+#Reference:
 
 <!--[if !supportLists]-->1.  <!--[endif]-->Nogueira A, Ferreira A, Figueiredo M. A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection. BioMedInformatics. 2023; 3(3):585-604. https\://doi.org/10.3390/biomedinformatics3030040
 
