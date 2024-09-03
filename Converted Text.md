@@ -8,13 +8,13 @@ It is a phenomenon where algorithms become less effective as data dimensions inc
 
  
 
-How to Overcome the Curse of Dimensionality?
+## How to Overcome the Curse of Dimensionality?
 
 In cancer research, reducing the dimensions of the microarray datasets to a reasonable number is a way to overcome the limitation (Osama et al., 2023), Several machine learning techniques helpful in reducing irrelevant and redundant features (Saeys et al., 2007). (Aziz et al., 2017)
 
  
 
-Dimensionality reduction algorithm includes:
+## Dimensionality reduction algorithm includes:
 
 1\. Feature selection
 
@@ -30,13 +30,13 @@ This technique combines the advantages of both filter/extraction methods and wra
 
 It involves two stages: first, a filter/extraction method is used to identify the most relevant features from the dataset and next stage a wrapper method evaluates these identified feature subsets to ensure they yield higher classification accuracy (Aziz et al., 2017). This approach employs various evaluation criteria at different search stages to enhance efficiency, improve classification accuracy, and achieve better computational performance (Chuang et al., 2011).
 
-#Conclusion:
+# Conclusion:
 
 Though the 'curse of dimensionality' creates limitations for classification and interpretation in cancer prediction using machine learning, techniques like feature selection, feature extraction, and hybrid methods help reduce irrelevant features, enhancing accuracy and efficiency in cancer research.
 
  
 
-#Reference:
+# Reference:
 
 <!--[if !supportLists]-->1.  <!--[endif]-->Nogueira A, Ferreira A, Figueiredo M. A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection. BioMedInformatics. 2023; 3(3):585-604. https\://doi.org/10.3390/biomedinformatics3030040
 
