@@ -38,10 +38,10 @@ Though the 'curse of dimensionality' creates limitations for classification and 
 
 # Reference:
 
-<!--[if !supportLists]-->1.  <!--[endif]-->Nogueira A, Ferreira A, Figueiredo M. A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection. BioMedInformatics. 2023; 3(3):585-604. https\://doi.org/10.3390/biomedinformatics3030040
+1\. <!--[if !supportLists]-->1.  <!--[endif]-->Nogueira A, Ferreira A, Figueiredo M. A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection. BioMedInformatics. 2023; 3(3):585-604. https\://doi.org/10.3390/biomedinformatics3030040
 
-<!--[if !supportLists]-->2.  <!--[endif]-->Zhang, B., Shi, H., & Wang, H. (2023). Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach. Journal of Multidisciplinary Healthcare, Volume 16, 1779–1791. <https://doi.org/10.2147/jmdh.s410301>
+2\. <!--[if !supportLists]-->2.  <!--[endif]-->Zhang, B., Shi, H., & Wang, H. (2023). Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach. Journal of Multidisciplinary Healthcare, Volume 16, 1779–1791. <https://doi.org/10.2147/jmdh.s410301>
 
-<!--[if !supportLists]-->3.  <!--[endif]-->Rabia Aziz,  C.K. Verma,  Namita Srivastava. Dimension reduction methods for microarray data: a review\[J]. AIMS Bioengineering, 2017, 4(1): 179-197. doi: 10.3934/bioeng.2017.1.179
+3\. <!--[if !supportLists]-->3.  <!--[endif]-->Rabia Aziz,  C.K. Verma,  Namita Srivastava. Dimension reduction methods for microarray data: a review\[J]. AIMS Bioengineering, 2017, 4(1): 179-197. doi: 10.3934/bioeng.2017.1.179
 
-<!--[if !supportLists]-->4.  <!--[endif]-->Osama, S., Shaban, H., & Ali, A. A. (2023). Gene reduction and machine learning algorithms for cancer classification based on microarray gene expression data: A comprehensive review. Expert Systems With Applications, 213, 118946. https\://doi.org/10.1016/j.eswa.2022.118946
+4\. <!--[if !supportLists]-->4.  <!--[endif]-->Osama, S., Shaban, H., & Ali, A. A. (2023). Gene reduction and machine learning algorithms for cancer classification based on microarray gene expression data: A comprehensive review. Expert Systems With Applications, 213, 118946. https\://doi.org/10.1016/j.eswa.2022.118946
