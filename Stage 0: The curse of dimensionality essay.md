@@ -28,3 +28,4 @@ Though the 'curse of dimensionality' creates limitations for classification and 
 3\. <!--[if !supportLists]-->  <!--[endif]-->Rabia Aziz,  C.K. Verma,  Namita Srivastava. Dimension reduction methods for microarray data: a review\[J]. AIMS Bioengineering, 2017, 4(1): 179-197. doi: 10.3934/bioeng.2017.1.179
 
 4\. <!--[if !supportLists]-->  <!--[endif]-->Osama, S., Shaban, H., & Ali, A. A. (2023). Gene reduction and machine learning algorithms for cancer classification based on microarray gene expression data: A comprehensive review. Expert Systems With Applications, 213, 118946. https\://doi.org/10.1016/j.eswa.2022.118946
+5\. Saeys Y, et al. Feature selection for splice site prediction: a new method using EDA-based feature ranking, BMC Bioinformatics, 2004, vol. 5 pg. 64 
