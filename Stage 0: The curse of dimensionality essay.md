@@ -1,3 +1,6 @@
+# Topic: Cuse of Dimensionality
+
+## Link between Machine learning and Cancer Diagnosis
 Machine learning is a branch of AI, allows system to learn and make predictions. It’s useful in automating the use of microarray data and contributed to the creation of gene expression datasets (Nogueira et al., 2023), It is effective in predicting various types of cancers (Zhang et al., 2023). However, these datasets are highly dimensional with many features, making interpretation challenging and complicating the application of classification techniques due to the "curse of dimensionality" (Nogueira et al., 2023).
 
 ## What is the Curse of Dimensionality?
