@@ -2,10 +2,7 @@
 
 #### Table of Contents
 
-- [Introduction](#Introduction)
-- [Applications](#ml-and-its-applications)
-- [Challenges and Future Perspectives](#Challenges-and-Future-Perspectives)
-- [Conclusion](#Conclusion)
+[Introduction](#Introduction) | [Applications](#ml-and-its-applications) | [Challenges and Future Perspectives](#Challenges-and-Future-Perspectives) | [Conclusion](#Conclusion)
 
 
 
