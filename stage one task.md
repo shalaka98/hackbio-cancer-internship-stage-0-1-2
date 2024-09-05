@@ -9,13 +9,13 @@
 
 
 
-### > :memo: **Introduction:**
+> :memo: **Introduction:**
 
-### >  :bulb: **ML and its applications:**
+> :memo: **ML and its applications:**
 
-### > :memo: **Challenges and Future Perspectives:**
+> :memo: **Challenges and Future Perspectives:**
 
-### > :memo: **Conclusion:**
+> :memo: **Conclusion:**
 
 
 
