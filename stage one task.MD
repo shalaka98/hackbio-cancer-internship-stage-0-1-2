@@ -4,8 +4,7 @@
 > :bulb: **Reference:** Relevant links or sources.
 
 **TEAM:**
-| Name          | Linkedin/email                                                   |
-| ------------- | ---------------------------------------------------------------- |
-| Shalaka More  | [LinkedIn Profile](https://www.linkedin.com/in/shalaka-more-03277913b/) |
-| Sreeja Mondal | [LinkedIn Profile](https://www.markdownguide.org)                 |
-
+| Name      | Linkedin/email |
+| ----------- | ----------- |
+| shalaka more | <a href="https://www.linkedin.com/in/shalaka-more-03277913b/" target="_blank">Learn Markdown!</a>  |
+| Sreeja Mondal|  <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a> |
