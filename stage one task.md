@@ -9,13 +9,13 @@
 
 
 
-> :memo: **Introduction:**
+> 📝 **Introduction:**
 
-> :memo: **ML and its applications:**
+> ⚙️ **ML and its applications:**
 
-> :memo: **Challenges and Future Perspectives:**
+> 🌐 **Challenges and Future Perspectives:**
 
-> :memo: **Conclusion:**
+> 📋 **Conclusion:**
 
 
 
