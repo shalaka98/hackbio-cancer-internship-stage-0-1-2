@@ -9,7 +9,7 @@
 
 
 
-> 📝 **Introduction:**
+> 📝 <font color="red">  **Introduction:**
 
 > ⚙️ **ML and its applications:**
 
