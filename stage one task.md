@@ -24,5 +24,6 @@
 | Name      | Slack ID|Linkedin/email |
 | ----------- |----------- |----------- |
 | shalaka more | @shalaka | <a href="https://www.linkedin.com/in/shalaka-more-03277913b/" target="_blank">	LinkedIn Profile</a>  |
-| Sreeja Mondal| @sreeja | <a href="https://www.markdownguide.org" target="_blank">	LinkedIn Profile</a> |
-|Ayooluwa Joseph| @Jay1079 | <a href="https://www.markdownguide.org" target="_blank">	LinkedIn Profile</a> |
+| Sreeja Mondal| @sreeja | <a href="https://linkedin.com/in/sreejamondal263/" target="_blank">	LinkedIn Profile</a> |
+| Ayooluwa Joseph| @Jay1079 | <a href="https://www.markdownguide.org" target="_blank">	LinkedIn Profile</a> |
+| Ahmed Hasan | @Hasan | <a href="https://www.markdownguide.org" target="_blank">	LinkedIn Profile</a> |
