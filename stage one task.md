@@ -13,7 +13,7 @@
 
 > 📝 <font color="red">  **Introduction:**
 
-<img src="![image](https://github.com/user-attachments/assets/da4ccdf4-07a9-4f70-8327-e96a3d8ce0a2)" width="200" height="100">
+<img src="![image](https://github.com/user-attachments/assets/da4ccdf4-07a9-4f70-8327-e96a3d8ce0a2)" width="300" height="300">
 
 
 > ⚙️ **ML and its applications:**
