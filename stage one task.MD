@@ -6,5 +6,5 @@
 **TEAM:**
 | Name      | Linkedin/email |
 | ----------- | ----------- |
-| shalaka more | <a href="https://www.linkedin.com/in/shalaka-more-03277913b/" target="_blank">Learn Markdown!</a>  |
-| Sreeja Mondal|  <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a> |
+| shalaka more | <a href="https://www.linkedin.com/in/shalaka-more-03277913b/" target="_blank">	LinkedIn Profile!</a>  |
+| Sreeja Mondal|  <a href="https://www.markdownguide.org" target="_blank">	LinkedIn Profile!</a> |
