@@ -3,7 +3,7 @@
 <p align="center"> Table of Contents: </p>
 <p align="center">
   <a href="#Introduction">Introduction</a> | 
-  <a href="#ml-and-its-applications">Applications</a> | 
+  <a href="#ML-and-its-applications">Applications</a> | 
   <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
   <a href="#Conclusion">Conclusion</a> | 
   <a href="#Reference">Reference</a>
@@ -22,8 +22,6 @@
 > 🌐 **Challenges and Future Perspectives:**
 
 > 📋 **Conclusion:**
-
-
 
 > :bulb: **Reference:** 
 1. Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. Genomics, proteomics & bioinformatics, 20(5), 850–866. https://doi.org/10.1016/j.gpb.2022.11.003
