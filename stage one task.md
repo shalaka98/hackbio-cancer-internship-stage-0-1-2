@@ -13,7 +13,8 @@
 
 > 📝 <font color="red">  **Introduction:**
 
-<img src="![image](https://github.com/user-attachments/assets/da4ccdf4-07a9-4f70-8327-e96a3d8ce0a2)" width="300" height="300">
+
+<img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
 
 
 > ⚙️ **ML and its applications:**
