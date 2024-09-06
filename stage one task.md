@@ -2,11 +2,11 @@
 
 <p align="center"> Table of Contents: </p>
 <p align="center">
-  <a href="#Introduction">Introduction</a> | 
-  <a href="#ml-and-its-applications">Applications</a> | 
-  <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
-  <a href="#Conclusion">Conclusion</a> | 
-  <a href="#Reference">Reference</a>
+  <a href="#Introduction:">Introduction</a> | 
+  <a href="#ml-and-its-applications:">Applications</a> | 
+  <a href="#Challenges-and-Future-Perspectives:">Challenges & Future Perspectives</a> | 
+  <a href="#Conclusion:">Conclusion</a> | 
+  <a href="#Reference:">Reference</a>
 </p>
 
 
