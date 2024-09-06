@@ -2,7 +2,7 @@
 
 **Table of Contents:**
 
-[Introduction](#introduction) | [Applications](#applications) | [Challenges and Future Perspectives](#challenges-and-future-perspectives) | [Conclusion](#conclusion) | [Reference](#reference) | [Contributors](#contributors)
+[Introduction](#Introduction) | [Applications](#Applications) | [Challenges and Future Perspectives](#Challenges-and-future-perspectives) | [Conclusion](#conclusion) | [Reference](#Reference) | [Contributors](#Contributors)
 
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
@@ -12,7 +12,9 @@
 <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
 
 # ⚙️ **ML and its applications**
-
+-
+-
+-
 # 🌐 **Challenges and Future Perspectives**
 
 # 📋 **Conclusion**
