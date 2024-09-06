@@ -18,7 +18,7 @@ Lung cancer is a major global health problem characterized by high intra-tumor h
 
 <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
 
-#⚙️ **ML and its applications**
+# ⚙️ **ML and its applications**
 ML-powered computer-aided diagnosis (CAD) systems assist in analyzing imaging data to predict malignancy more efficiently than traditional CT scans. Convolutional neural networks (CNNs) have improved the accuracy of these systems and can detect benign and malignant nodules. ML models use omics data to uncover specific cancer types and sub-types, allowing the identification of genetic markers for diagnosing lung cancer. ML techniques enable precise predictions of lung cancer prognosis and responses to treatments. Additionally,  ML is applied to lung cancer therapy to predict treatment response, evaluate tumor-infiltrating lymphocytes (TILs), and predict neoantigens. ML models analyze immune sequencing signatures, transcriptomic data, imaging, and radiomic features aiding in personalized treatment
 
 # 🌐 **Challenges and Future Perspectives**
