@@ -2,7 +2,7 @@
 
 **Table of Contents:**
 
-[Introduction](#Introduction) | [Applications](#Applications) | [Challenges and Future Perspectives](#Challenges-and-future-perspectives) | [Conclusion](#conclusion) | [Reference](#Reference) | [Contributors](#Contributors)
+[Introduction](#Introduction) | [Applications](#ML-and-its-applications) | [Challenges and Future Perspectives](#Challenges-and-future-perspectives) | [Conclusion](#conclusion) | [Reference](#Reference) | [Contributors](#Contributors)
 
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
