@@ -10,7 +10,7 @@
   <a href="#Contributors">Contributors</a> 
 </p>
 
-> 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	ML for Lung cancer Video</a>**
+> 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
 #  📝 **#Introduction** 
 
