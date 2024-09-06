@@ -2,7 +2,7 @@
 
 <p align="center"> Table of Contents: </p>
 <p align="center">
-  <a href="#Introduction">Introduction</a> | 
+  <a href="#📝Introduction">Introduction</a> | 
   <a href="#ML-and-its-applications">Applications</a> | 
   <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
   <a href="#Conclusion">Conclusion</a> | 
@@ -13,7 +13,7 @@
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
-#  📝 **Introduction** 
+# 📝 **Introduction** 
 
 <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
 
