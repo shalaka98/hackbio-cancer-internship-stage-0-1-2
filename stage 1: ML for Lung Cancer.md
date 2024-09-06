@@ -1,23 +1,23 @@
 # Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis
 
-<p align="center">Table of Contents:</p>
+<p align="center"> Table of Contents: </p>
 <p align="center">
-  <a href="#introduction">Introduction</a> |
-  <a href="#applications">Applications</a> |
-  <a href="#challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> |
-  <a href="#conclusion">Conclusion</a> |
-  <a href="#reference">Reference</a> |
-  <a href="#contributors">Contributors</a>
+  <a href="#Introduction">Introduction</a> | 
+  <a href="#ML-and-its-applications">Applications</a> | 
+  <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
+  <a href="#Conclusion">Conclusion</a> | 
+  <a href="Reference">Reference</a> |
+  <a href="#Contributors">Contributors</a> 
 </p>
 
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
-##  📝 **Introduction** 
+#  📝 **Introduction** 
 
 <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
 
-## ⚙️ **ML and its applications**
+#⚙️ **ML and its applications**
 -
 -
 -
@@ -25,7 +25,7 @@
 
 # 📋 **Conclusion**
 
-## :bulb: **Reference** 
+# :bulb: **Reference** 
 1. Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. Genomics, proteomics & bioinformatics, 20(5), 850–866. https://doi.org/10.1016/j.gpb.2022.11.003
 
 # 👩‍💻 **Contributors**
