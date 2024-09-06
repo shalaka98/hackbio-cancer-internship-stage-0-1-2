@@ -6,11 +6,12 @@
   <a href="#ML-and-its-applications">Applications</a> | 
   <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
   <a href="#Conclusion">Conclusion</a> | 
-  <a id="Reference">Reference</a> |
+  <a id="Reference"></a> |
   <a href="#Contributors">Contributors</a> 
 </p>
 
-<a id="Reference">Reference</a> 
+<a id="Reference"></a> 
+
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
 #  📝 **Introduction** 
