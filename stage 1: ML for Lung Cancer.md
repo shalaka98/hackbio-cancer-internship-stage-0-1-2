@@ -14,11 +14,13 @@
 ### Introduction
 Lung cancer is a major global health problem characterized by high intra-tumor heterogeneity and drug resistance. Recent advancements in cancer research, including -omics analysis and large-scale databases, have provided valuable insights. Machine learning (ML) has emerged as a powerful tool for analyzing complex biomedical data, aiding in early detection, classification, prognosis prediction, and drug response evaluation. This review provides an overview of ML algorithms used in lung cancer research and highlights the challenges and opportunities for future applications.
 
-<p>
-  <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="450" />
-  <br>
-  <small>Figure 1: Applications of ML model in lung cancer.</small>
-</p>
+
+<figure>
+  <img src="https://github.com/user-attachments/assets/54982052-ccce-4883-9a96-25386290e9bb" alt="gr1">
+  <figcaption>
+    Figure 1: Applications of ML model in lung cancer.</figcaption>
+</figure>
+
 
 ### Applications 
 ML-powered computer-aided diagnosis (CAD) systems assist in analyzing imaging data to predict malignancy more efficiently than traditional CT scans. Convolutional neural networks (CNNs) have improved the accuracy of these systems and can detect benign and malignant nodules. ML models use omics data to uncover specific cancer types and sub-types, allowing the identification of genetic markers for diagnosing lung cancer. ML techniques enable precise predictions of lung cancer prognosis and responses to treatments. Additionally,  ML is applied to lung cancer therapy to predict treatment response, evaluate tumor-infiltrating lymphocytes (TILs), and predict neoantigens. ML models analyze immune sequencing signatures, transcriptomic data, imaging, and radiomic features aiding in personalized treatment.
