@@ -6,7 +6,7 @@
   <a href="#ML-and-its-applications">Applications</a> | 
   <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
   <a href="#Conclusion">Conclusion</a> | 
-  <a href="#Reference">Reference</a> |
+  <a href="##Reference">Reference</a> |
   <a href="####Contributors">Contributors</a> 
 </p>
 
