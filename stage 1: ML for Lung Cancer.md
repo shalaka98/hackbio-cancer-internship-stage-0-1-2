@@ -1,14 +1,16 @@
 # Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis
 
-<p align="center"> Table of Contents: </p>
-<p align="center">
-  <a href="#Introduction">Introduction</a> | 
-  <a href="#ML-and-its-applications">Applications</a> | 
-  <a href="#Challenges-and-Future-Perspectives">Challenges & Future Perspectives</a> | 
-  <a href="#Conclusion">Conclusion</a> | 
-  <a href="Reference">Reference</a> |
-  <a href="#Contributors">Contributors</a> 
-</p>
+<a id="introduction"></a>
+
+<a id="applications"></a>
+
+<a id="challenges-and-future-perspectives"></a>
+
+<a id="conclusion"></a>
+
+<a id="reference"></a>
+
+<a id="contributors"></a>
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
