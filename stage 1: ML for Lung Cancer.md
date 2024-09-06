@@ -1,7 +1,7 @@
 <h1 align="center"> ML for Lung Cancer Diagnosis, Treatment, & Prognosis </h1>
 
 <p align="center"> Table of Contents: </a>
-  <a href="Introduction"> Introduction </a> | 
+  <a href="#Introduction"> Introduction </a> | 
   <a href="#ML-and-its-applications"> Applications </a> | 
   <a href="#Challenges-and-Future-Perspectives"> Challenges & Future Perspectives </a> | 
   <a href="#Conclusion"> Conclusion </a> | 
@@ -12,7 +12,7 @@
 
 > 🎥 **Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>**
 
-# 📝 **Introduction** 
+# 📝 Introduction 
 Lung cancer is a major global health problem characterized by high intra-tumor heterogeneity and drug resistance. Recent advancements in cancer research, including -omics analysis and large-scale databases, have provided valuable insights. Machine learning (ML) has emerged as a powerful tool for analyzing complex biomedical data, aiding in early detection, classification, prognosis prediction, and drug response evaluation. This review provides an overview of ML algorithms used in lung cancer research and highlights the challenges and opportunities for future applications.
 
 <img src="https://github.com/user-attachments/assets/05deaa57-4eba-411a-8125-d7b4224e95ab" alt="Applications of ML model in lung cancer" width="300" />
