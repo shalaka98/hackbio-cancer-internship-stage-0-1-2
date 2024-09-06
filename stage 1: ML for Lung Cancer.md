@@ -9,6 +9,8 @@
   <a href="#Contributors"> Contributors </a> 
 </a>
 
+[Application 📦](#ML-and-its-applications-)
+
 
 > 🎥 Presntation Video: <a href="https://www.google.com" target="_blank">	Link to ML for Lung cancer Video</a>
 
