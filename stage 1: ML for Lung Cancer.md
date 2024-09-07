@@ -1,6 +1,6 @@
 <h1 align="center"> Advances in Machine Learning for Lung Cancer: Enhancing Diagnosis, Treatment, and Prognosis </h1>
 
-> 🎥 **Presentation Video:** <a href="[https://www.linkedin.com/posts/ahmed-hasan-256265257_hackbio-internship-stage1-as-part-of-the-activity-7238268903208980480-CLM_?utm_source=share&utm_medium=member_desktop]" target="_blank">	Link to ML for Lung cancer Video</a>
+> 🎥 **Presentation Video:** <a href="https://www.linkedin.com/posts/ahmed-hasan-256265257_hackbio-internship-stage1-as-part-of-the-activity-7238268903208980480-CLM_?utm_source=share&utm_medium=member_desktop" target="_blank">	Link to ML for Lung cancer Video</a>
 
 <a align="center"> Table of Contents: </a>
   <a href="#Introduction"> Introduction </a> | 
