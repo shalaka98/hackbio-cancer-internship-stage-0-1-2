@@ -1,6 +1,7 @@
 ### step 1: install package
 ```
-install.packges()
+library(gprofiler2)
+
 ```
 ### step 2: import file
 
@@ -9,6 +10,9 @@ glioblastoma <- read.csv("https://raw.githubusercontent.com/HackBio-Internship/p
 ```
 ### step 3: subsetting
 > referring: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7859841/
+
+library(gprofiler2)
+
 ##### 1. keep only the significant genes
 sig_gene = subset(glioblastoma, padj < 0.05)
 ##### 2. get the significant up-regulated genes
