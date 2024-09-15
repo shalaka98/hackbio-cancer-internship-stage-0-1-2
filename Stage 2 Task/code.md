@@ -1,4 +1,4 @@
-# title: Visualization, Differential Expression Analysis and Downstream Analysis of
+# Visualization, Differential Expression Analysis and Downstream Analysis of
 
 The whole analysis will use a [count dataset of glioblastoma transcriptomic samples](https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv). This dataset contains 5 samples from Recurrent Tumor and 5 from Primary Tumor. 
 # Installing gplots for visualization
