@@ -1,5 +1,5 @@
 >  # Contributors
-|Name| Slack ID|Linkedin/email |
+|Name|Slack ID|Linkedin|
 | ----------- |----------- |----------- |
 |Ayooluwa Joseph|@Jay1079| <a href="https://www.linkedin.com/in/ayooluwa-joseph" target="_blank">	LinkedIn Profile</a> |
 |Edikan Umoh|@usiwomaumoh| <a href="." target="_blank">	LinkedIn Profile</a>|
