@@ -77,21 +77,21 @@ pvalues
 
 # Filtering out Significant Genes (padj <0.05 and fold change cutoff 2)
 ```{r}
-### Subset for significant genes with p-value < 0.05 AND log2 fold change > 1
+# Subset for significant genes with p-value < 0.05 AND log2 fold change > 1
 significant_genes_up <- (pvalues < 0.05) & (log2_fold_change > 1)
 
-### Subset p-values and log2 fold change that meet the criteria for significantly up-regulated genes.
+# Subset p-values and log2 fold change that meet the criteria for significantly up-regulated genes.
 filtered_pvalues_up <- pvalues[significant_genes_up]
 filtered_log2fc_up <- log2_fold_change[significant_genes_up]
 
-### Print the results
+# Print the results
 filtered_pvalues_up
 filtered_log2fc_up
 
-### Subset for significant genes with p-value < 0.05 AND log2 fold change < -1
+# Subset for significant genes with p-value < 0.05 AND log2 fold change < -1
 significant_genes_down <- (pvalues < 0.05) & (log2_fold_change < -1)
 
-### Subset p-values and log2 fold change that meet the criteria for significantly down-regulated genes.
+# Subset p-values and log2 fold change that meet the criteria for significantly down-regulated genes.
 filtered_pvalues_down <- pvalues[significant_genes_down]
 filtered_log2fc_down <- log2_fold_change[significant_genes_down]
 
@@ -106,7 +106,7 @@ background_genes <- data.frame(gene = names(pvalues), log2FC = as.vector(log2_fo
 DE_significantly_up_genes <- data.frame(gene = names(filtered_pvalues_up), log2FC = as.vector(filtered_log2fc_up), pval = as.vector(filtered_pvalues_up))
 DE_significantly_down_genes <- data.frame(gene = names(filtered_pvalues_down), log2FC = as.vector(filtered_log2fc_down), pval = as.vector(filtered_pvalues_down))
 
-### Exporting into a CSV file
+# Exporting into a CSV file
 write.csv(background_genes, "background_genes.csv", row.names = FALSE)
 write.csv(DE_significantly_up_genes, "DE_significantly_up_genes.csv", row.names = FALSE)
 write.csv(DE_significantly_down_genes, "DE_significantly_down_genes.csv", row.names = FALSE)
