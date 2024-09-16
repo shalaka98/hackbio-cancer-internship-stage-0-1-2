@@ -22,7 +22,7 @@ Color selection is crucial for heatmap interpretability. Diverging palettes (e.g
 <p align="center">Fig 2: Sequential palettes </p>
 
 
-### Importance of:
+### Importance of Clustering:
 - Clustering Genes Alone: Focuses on gene behavior across all samples. Useful for identifying gene co-expression patterns and functional relationships.
 ![Heatmap with Clustering - Rows](Images/heatmap_row_clustering.jpg)
 <p align="center"> Fig 3: Clustering Genes Alone </p>
