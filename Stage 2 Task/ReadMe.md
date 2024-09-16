@@ -1,7 +1,7 @@
 # HackBio Stage-2 Task: 
 
 ## Contents
-- **[Images](.hackbio-cancer-internship/Stage%202%20Task/Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
+- **[Images](./Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
 - **[Data](./Stage%202%20Task/data/)**: The gene expression dataset used for analysis.
 - **[Report](./Stage%202%20Task/Report.md)**: Detailed report of the analysis.
 - **[Code](./Stage%202%20Task/code.md)**: Scripts and notebooks used for data preprocessing, visualization, and analysis.
