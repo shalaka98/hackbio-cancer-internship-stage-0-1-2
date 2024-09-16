@@ -1,13 +1,10 @@
 <h1 align="center"> REPORT </h1>
 
-
 <a align="center"> Table of Contents: </a>
   <a href="#enriched-pathways-according-to-biological-process"> Pathways </a> | 
   <a href="#References"> References </a> |
   <a href="#Contributors"> Contributors </a> 
 </a>
-
-
 
 >  ## Enriched Pathways According to Biological Process
 
