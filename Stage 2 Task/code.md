@@ -112,7 +112,7 @@ write.csv(DE_significantly_up_genes, "DE_significantly_up_genes.csv", row.names 
 write.csv(DE_significantly_down_genes, "DE_significantly_down_genes.csv", row.names = FALSE)
 ```
 # Functional Enrichment Analysis with ShinyGO
-Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 89 significantly differential expressed genes, we found the following top 5 enriched biological pathways.
+Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 10 significantly differential expressed genes, we found the following top 5 enriched biological pathways.
 
 ```{r, echo=FALSE, fig.width=10, fig.height=10}
 pathways <- read.csv("https://raw.githubusercontent.com/shalaka98/hackbio-cancer-internship/0bb318818951e6d5d1b583e41a4caaecd33c5a44/Stage%202%20Task/data/enrichment.csv")
