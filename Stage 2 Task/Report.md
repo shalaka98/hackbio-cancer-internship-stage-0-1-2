@@ -8,7 +8,7 @@
   <a href="#Contributors"> Contributors </a> 
 </a>
 
->  ## Introduction
+>  ## **Introduction**
 
 
 >  ## Heatmap Visualization and Color Palettes in Gene Expression Analysis
