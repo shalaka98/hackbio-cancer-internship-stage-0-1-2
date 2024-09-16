@@ -9,11 +9,21 @@
 </a>
 
 >  ## Introduction
+The whole analysis will use a [count dataset of glioblastoma transcriptomic samples](https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv). This dataset contains a total of 10 samples.
 
 >  ## Heatmap Visualization and Color Palettes in Gene Expression Analysis
+### Importance of Color Selection in Interpreting Plots:
+Color selection is crucial for heatmap interpretability. Diverging palettes (e.g., Red-Blue) are effective for highlighting deviations from a central point, such as gene over- or under-expression, and make extreme values and patterns more noticeable. Sequential palettes (e.g., Blues) are ideal for datasets with a natural progression from low to high, helping viewers easily perceive the magnitude of values and intensity changes.
+
+### Importance of:
+- Clustering Genes Alone: Focuses on gene behavior across all samples. Useful for identifying gene co-expression patterns and functional relationships.
+- Clustering Samples Alone: Focuses on sample behavior across all genes. Useful for discovering sample similarities and potential subgroups.
+- Clustering Both: Provides a holistic view of the data, showing relationships between genes and samples simultaneously. Useful for integrated insights into gene expression patterns and sample similarities.
 
 
 >  ## Enriched Pathways According to Biological Process
+![Alternative image text](https://github.com/shalaka98/hackbio-cancer-internship/tree/d807d79a0850e8f62d983e4c75edd3e20e34267e/Stage%202%20Task/Images)
+
 
 **Top 3 Enriched Pathways includes:** Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process
 
