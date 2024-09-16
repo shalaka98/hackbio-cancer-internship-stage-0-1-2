@@ -1,10 +1,7 @@
 # HackBio Stage-2 Task: 
 
 ## Contents
-**[Images](./Stage 2 Task/Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
-Data: The gene expression dataset used for analysis.
-Report: A detailed report of the analysis, including methods, results, and interpretations.
-Code: Scripts and notebooks used for data preprocessing, visualization, and analysis
+**[Images](./Stage2/Images/)**
 
  ## Contributors
 |Name|Slack ID|Linkedin|
