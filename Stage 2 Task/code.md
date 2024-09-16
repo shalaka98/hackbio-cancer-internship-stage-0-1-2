@@ -115,7 +115,7 @@ write.csv(DE_significantly_down_genes, "DE_significantly_down_genes.csv", row.na
 Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 89 significantly differential expressed genes, we found the following top 10 enriched KEGG pathways.
 
 ```{r, echo=FALSE, fig.width=10, fig.height=10}
-pathways <- read.csv("https://github.com/shalaka98/hackbio-cancer-internship/blob/0bb318818951e6d5d1b583e41a4caaecd33c5a44/Stage%202%20Task/data/enrichment.csv)"
+pathways <- read.csv("https://github.com/shalaka98/hackbio-cancer-internship/blob/0bb318818951e6d5d1b583e41a4caaecd33c5a44/Stage%202%20Task/data/enrichment.csv")
 pathways$logFDR <- -log10(pathways$Enrichment.FDR)
 ggplot(pathways, aes(x = nGenes, y = reorder(Pathway, nGenes))) +
   geom_segment(aes(xend = 0, yend = reorder(Pathway, nGenes)), color = "grey") +
