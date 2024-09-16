@@ -1,3 +1,36 @@
+# Top 3 Enriched Pathways According to Biological Process
+
+This document explores Top 3 Enriched Pathways According to biological processes: Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process,
+
+### Glutathione Derivative Metabolic and Biosynthesis Process
+
+These are the chemical reactions involving the formation of glutathione derivative glutathione, the tripeptide glutamylcysteinylglycine, which acts as a coenzyme for some enzymes and as an antioxidant in the protection of sulfhydryl groups in enzymes and other proteins and participates in the gamma-glutamyl cycle. (Lapenna, 2023)
+
+Moreover, glutathione(GSH) biosynthesis involves a series of enzymatic reactions using L-glutamic acid, L-cysteine, and glycine (Ikeda & Fujii, 2023). GSH is synthesized through two ATP-dependent reactions: the first catalyzed by γ-glutamylcysteine synthetase (γ-GCS) and the second by glutathione synthetase (Jiang et al., 2016).
+
+Glutathione and antioxidants exhibit a dual role in cancer by safeguarding cell homeostasis from oxidative damage or by promoting cancer progression to avoid the activation of cell death pathways. The deregulation of glutathione metabolism is broadly identifiable in the majority of cancers as the genes involved in GSH turnover or utilization are under the transcriptional control of classical tumorigenic pathways (Desideri et al., 2019). High GSH levels observed in cancer cells protect them from the activity of chemotherapeutic agents (Desideri et al., 2019).
+
+The gene found in both processes is the Glutathione S-transferase A1 (GSTA1) and its increased expression is associated with a worse prognosis in glioblastoma patients (Liu et al., 2014). It is involved in the detoxification of carcinogens and chemotherapeutic drugs by catalyzing their conjugation to glutathione and increased GSTA1 activity may enhance the ability of glioblastoma cells to withstand oxidative stress and survive (Liu et al., 2014). Glutathione metabolism is upregulated in glioblastoma to support rapid tumor growth. GSTA1 is a key enzyme in this pathway (Obukhova et al., 2022).
+
+### Linoleic acid metabolic process:
+Linoleic acid is an essential fatty acid that is metabolized in the human body through a number of processes. The oxidative metabolism of linoleic acid influence processes like growth factor signaling and cellular differentiation, and Role of Glutathione transferase (GST) (encoded by GST gene), is to remove these oxidation products (Seeley et al., 2006). 
+A study showed therapeutic effect of Gamma-linolenic acid on Glioblastoma cells by altering cyclooxygenase metabolism, increasing reactive oxygen species, activating caspases, and inducing apoptosis, inhibit proliferation and migration. (Miyake et al., 2020)
+
+# References
+
+- Desideri, E., Ciccarone, F., & Ciriolo, M. R. (2019). Targeting glutathione metabolism: partner in crime in anticancer therapy. *Nutrients*, 11(8), 1926. [Link](https://doi.org/10.3390/nu11081926)
+- Lapenna, D. (2023). Glutathione and Glutathione-dependent Enzymes: From Biochemistry to Gerontology and Successful Aging. *Ageing Research Reviews*, 102066-102066. [Link](https://doi.org/10.1016/j.arr.2023.102066)
+- Ikeda, Y., & Fujii, J. (2023). The emerging roles of Γ-Glutamyl peptides produced by Γ-Glutamyltransferase and the glutathione synthesis system. *Cells*, 12(24), 2831. [Link](https://doi.org/10.3390/cells12242831)
+- Jiang, Y., Tao, R., Shen, Z., Sun, L., Zhu, F., & Yang, S. (2016). Enzymatic Production of Glutathione by Bifunctional γ-Glutamylcysteine Synthetase/Glutathione Synthetase Coupled with In Vitro Acetate Kinase-Based ATP Generation. *Applied Biochemistry and Biotechnology*, 180(7), 1446–1455. [Link](https://doi.org/10.1007/s12010-016-2178-5)
+- Liu, Y., Hyde, A. S., Simpson, M. A., & Barycki, J. J. (2014). Emerging regulatory paradigms in glutathione metabolism. *Advances in Cancer Research*, 69–101. [Link](https://doi.org/10.1016/b978-0-12-420117-0.00002-5)
+- Obukhova, L., Kopytova, T., Murach, E., Shchelchkova, N., Kontorshchikova, C., Medyanik, I., Orlinskaya, N., Grishin, A., Kontorshchikov, M., & Badanina, D. (2022). Relationship between Glutathione-Dependent Enzymes and the Immunohistochemical Profile of Glial Neoplasms. *Biomedicines*, 10(10), 2393. [Link](https://doi.org/10.3390/biomedicines10102393)
+- Miyake, J. A., Gomes, R. N., & Colquhoun, A. (2020). Gamma-Linolenic acid alters migration, proliferation, and apoptosis in human and rat glioblastoma cells. *Prostaglandins & Other Lipid Mediators*, 150, 106452. [Link](https://doi.org/10.1016/j.prostaglandins.2020.106452)
+- Seeley, S. K., Poposki, J. A., Maksimchuk, J., Tebbe, J., Gaudreau, J., Mannervik, B., & Bull, A. W. (2006). Metabolism of oxidized linoleic acid by glutathione transferases: Peroxidase activity toward 13-hydroperoxyoctadecadienoic acid. *Biochimica Et Biophysica Acta (BBA) - General Subjects*, 1760(7), 1064–1070. [Link](https://doi.org/10.1016/j.bbagen.2006.02.020)
+Feel free to adjust any details or formatting as needed!
+
+
+
+
 >  # Contributors
 |Name|Slack ID|Linkedin|
 | ----------- |----------- |----------- |
