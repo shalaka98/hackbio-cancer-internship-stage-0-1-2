@@ -1,4 +1,4 @@
-# HackBio Stage-2 Task: 
+# HackBio Stage-2 Task
 
 ## Contents
 - **[Images](./Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
