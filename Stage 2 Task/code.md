@@ -115,13 +115,24 @@ write.csv(DE_significantly_down_genes, "DE_significantly_down_genes.csv", row.na
 Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 10 significantly differential expressed genes, we found the following top 5 enriched biological pathways.
 
 ```{r, echo=FALSE, fig.width=10, fig.height=10}
+# Install and load ggplot2 package
+install.packages("ggplot2")
+library(ggplot2)
+
+# Load the CSV data
 pathways <- read.csv("https://raw.githubusercontent.com/shalaka98/hackbio-cancer-internship/0bb318818951e6d5d1b583e41a4caaecd33c5a44/Stage%202%20Task/data/enrichment.csv")
+
+# Calculate -log10 of FDR for significance
 pathways$logFDR <- -log10(pathways$Enrichment.FDR)
+
+# Create a lollipop plot
 ggplot(pathways, aes(x = nGenes, y = reorder(Pathway, nGenes))) +
   geom_segment(aes(xend = 0, yend = reorder(Pathway, nGenes)), color = "grey") +
-  geom_point(aes(size = logFDR), color = "blue") +
-  scale_size_continuous(range = c(2, 10)) +  # Adjust size range for logFDR
-  labs(x = "Number of Genes", y = "Pathway", size = "-log10(FDR)", 
+    geom_point(aes(size = logFDR), color = "blue") +
+    scale_size_continuous(range = c(2, 10)) +  # Adjust size range for logFDR
+    labs(x = "Number of Genes", y = "Pathway", size = "-log10(FDR)",  
        title = "Top 5 Pathways Enriched by Genes") +
-  theme_minimal() +
-  theme(axis.text.y = element_text(size = 10))```
+    theme_minimal() +
+    theme(axis.text.y = element_text(size = 10))
+
+```
