@@ -26,10 +26,6 @@ A study showed therapeutic effect of Gamma-linolenic acid on Glioblastoma cells 
 - Obukhova, L., Kopytova, T., Murach, E., Shchelchkova, N., Kontorshchikova, C., Medyanik, I., Orlinskaya, N., Grishin, A., Kontorshchikov, M., & Badanina, D. (2022). Relationship between Glutathione-Dependent Enzymes and the Immunohistochemical Profile of Glial Neoplasms. *Biomedicines*, 10(10), 2393. [Link](https://doi.org/10.3390/biomedicines10102393)
 - Miyake, J. A., Gomes, R. N., & Colquhoun, A. (2020). Gamma-Linolenic acid alters migration, proliferation, and apoptosis in human and rat glioblastoma cells. *Prostaglandins & Other Lipid Mediators*, 150, 106452. [Link](https://doi.org/10.1016/j.prostaglandins.2020.106452)
 - Seeley, S. K., Poposki, J. A., Maksimchuk, J., Tebbe, J., Gaudreau, J., Mannervik, B., & Bull, A. W. (2006). Metabolism of oxidized linoleic acid by glutathione transferases: Peroxidase activity toward 13-hydroperoxyoctadecadienoic acid. *Biochimica Et Biophysica Acta (BBA) - General Subjects*, 1760(7), 1064–1070. [Link](https://doi.org/10.1016/j.bbagen.2006.02.020)
-Feel free to adjust any details or formatting as needed!
-
-
-
 
 >  # Contributors
 |Name|Slack ID|Linkedin|
