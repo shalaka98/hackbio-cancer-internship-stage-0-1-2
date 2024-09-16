@@ -32,7 +32,7 @@ Color selection is crucial for heatmap interpretability. Diverging palettes (e.g
 <p align="center"> Fig 4: Clustering Samples Alone </p>
 
 - Clustering Both: Provides a holistic view of the data, showing relationships between genes and samples simultaneously. Useful for integrated insights into gene expression patterns and sample similarities.
-![Heatmap with Clustering - both](Images/heatmap_row_clustering_pages-to-jpg-0001.jpg)
+![Heatmap with Clustering - both](Images/heatmap_col_row_clustering.jpg)
 <p align="center"> Fig 5: Clustering Both </p>
 
 
