@@ -2,14 +2,14 @@
 
 
 <a align="center"> Table of Contents: </a>
-  <a href="#Top_3_Enriched_Pathways_According_to_Biological_Process"> Pathways </a> | 
+  <a href="#Enriched_Pathways_According_to_Biological_Process"> Pathways </a> | 
   <a href="#References"> References </a> |
   <a href="#Contributors"> Contributors </a> 
 </a>
 
 
 
->  ## Top 3 Enriched Pathways According to Biological Process
+>  ## TEnriched Pathways According to Biological Process
 
 **Top 3 Enriched Pathways includes:** Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process
 
