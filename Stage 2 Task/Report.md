@@ -15,17 +15,23 @@ The whole analysis will use a [count dataset of glioblastoma transcriptomic samp
 ### Importance of Color Selection in Interpreting Plots:
 Color selection is crucial for heatmap interpretability. Diverging palettes (e.g., Red-Blue) are effective for highlighting deviations from a central point, such as gene over- or under-expression, and make extreme values and patterns more noticeable. Sequential palettes (e.g., Blues) are ideal for datasets with a natural progression from low to high, helping viewers easily perceive the magnitude of values and intensity changes.
 
+*Fig:  Enriched Pathways According to Biological Process
+*Fig:  Enriched Pathways According to Biological Process
+
 ### Importance of:
 - Clustering Genes Alone: Focuses on gene behavior across all samples. Useful for identifying gene co-expression patterns and functional relationships.
+ *Fig:  Clustering Genes Alone
+
 - Clustering Samples Alone: Focuses on sample behavior across all genes. Useful for discovering sample similarities and potential subgroups.
+  *Fig: Clustering Samples Alone
+
 - Clustering Both: Provides a holistic view of the data, showing relationships between genes and samples simultaneously. Useful for integrated insights into gene expression patterns and sample similarities.
+*Fig:  Clustering Both
 
 
 >  ## Enriched Pathways According to Biological Process
-<img src="https://github.com/user-attachments/assets/f9831aea-2968-4763-b6f6-5c725c7c73b2" alt="image" width="600"/>
-
 ![Heatmap with Diverging Color Palette](Images/visualization%20of%20Top%205%20Enrichment%20Pathway.png)
-*Fig. :  Enriched Pathways According to Biological Process
+*Fig:  Enriched Pathways According to Biological Process
 
 **Top 3 Enriched Pathways includes:** Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process
 
