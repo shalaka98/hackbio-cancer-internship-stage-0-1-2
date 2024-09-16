@@ -16,25 +16,24 @@ The whole analysis will use a [count dataset of glioblastoma transcriptomic samp
 Color selection is crucial for heatmap interpretability. Diverging palettes (e.g., Red-Blue) are effective for highlighting deviations from a central point, such as gene over- or under-expression, and make extreme values and patterns more noticeable. Sequential palettes (e.g., Blues) are ideal for datasets with a natural progression from low to high, helping viewers easily perceive the magnitude of values and intensity changes.
 
 ![Heatmap with Diverging Color Palette](Images/heatmap_diverging_pages-to-jpg-0001.jpg)
-<p align="center">Fig: Diverging palettes </p>
+<p align="center">Fig 1: Diverging palettes </p>
 
 ![Heatmap with Diverging Color Palette](Images/heatmap_sequential_pages-to-jpg-0001.jpg)
-<p align="center">Fig:  Sequential palettes </p>
+<p align="center">Fig 2: Sequential palettes </p>
 
 
 ### Importance of:
 - Clustering Genes Alone: Focuses on gene behavior across all samples. Useful for identifying gene co-expression patterns and functional relationships.
-Fig:  Clustering Genes Alone
+![Heatmap with Clustering - Rows](Images/heatmap_row_clustering.jpg)
+<p align="center"> Fig 3: Clustering Genes Alone </p>
 
 - Clustering Samples Alone: Focuses on sample behavior across all genes. Useful for discovering sample similarities and potential subgroups.
-Fig: Clustering Samples Alone
+![Heatmap with Clustering - Columns](Images/heatmap_col_clustering.jpg)
+<p align="center"> Fig 4: Clustering Samples Alone </p>
 
 - Clustering Both: Provides a holistic view of the data, showing relationships between genes and samples simultaneously. Useful for integrated insights into gene expression patterns and sample similarities.
-Fig:  Clustering Both
-
-![Heatmap with Clustering - Columns](Images/heatmap_col_clustering.jpg)
-![Heatmap with Clustering - Rows](Images/heatmap_row_clustering.jpg)
 ![Heatmap with Clustering - both](Images/heatmap_row_clustering_pages-to-jpg-0001.jpg)
+<p align="center"> Fig 5: Clustering Both </p>
 
 
 >  ## Enriched Pathways According to Biological Process
