@@ -1,10 +1,14 @@
 <h1 align="center"> REPORT </h1>
 
 <a align="center"> Table of Contents: </a>
+  <a href="#Heatmap-Visualization-and-Color-Palettes-in-Gene-Expression"> Heatmap </a> | 
   <a href="#enriched-pathways-according-to-biological-process"> Pathways </a> | 
   <a href="#References"> References </a> |
   <a href="#Contributors"> Contributors </a> 
 </a>
+
+>  ## Heatmap Visualization and Color Palettes in Gene Expression
+
 
 >  ## Enriched Pathways According to Biological Process
 
