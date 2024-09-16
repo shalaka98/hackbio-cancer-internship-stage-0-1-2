@@ -2,9 +2,9 @@
 
 ## Contents
 - **[Images](./Images/)**: Visualizations of the gene expression data, including heatmaps and other relevant figures.
-- **[Data](./Stage%202%20Task/data/)**: The gene expression dataset used for analysis.
-- **[Report](./Stage%202%20Task/Report.md)**: Detailed report of the analysis.
-- **[Code](./Stage%202%20Task/code.md)**: Scripts and notebooks used for data preprocessing, visualization, and analysis.
+- **[Data](./data/)**: Dataset used for analysis.
+- **[Report](./Report.md)**: Detailed report of the analysis.
+- **[Code](./code.md)**: for data preprocessing, visualization, and analysis.
 
  ## Contributors
 |Name|Slack ID|Linkedin|
