@@ -111,8 +111,9 @@ write.csv(background_genes, "background_genes.csv", row.names = FALSE)
 write.csv(DE_significantly_up_genes, "DE_significantly_up_genes.csv", row.names = FALSE)
 write.csv(DE_significantly_down_genes, "DE_significantly_down_genes.csv", row.names = FALSE)
 ```
-# Functional Enrichment Analysis with ShinyGO
-Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 10 significantly differential expressed genes, we found the following top 5 enriched biological pathways.
+# Visualization of Biological Process Pathways
+
+Using the default parameters in [ShinyGO 0.80](http://bioinformatics.sdstate.edu/go/), for 10 significantly differential expressed genes, we found the following top 5 enriched biological pathways, visualizated using R
 
 ```{r, echo=FALSE, fig.width=10, fig.height=10}
 # Install and load ggplot2 package
