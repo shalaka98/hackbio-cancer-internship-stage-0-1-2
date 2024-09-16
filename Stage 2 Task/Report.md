@@ -1,3 +1,10 @@
+<a align="center"> Table of Contents: </a>
+  <a href="#Introduction"> Introduction </a> | 
+  <a href="# Top 3 Enriched Pathways According to Biological Process"> Pathway </a> | 
+  <a href="#Reference"> Reference </a> |
+  <a href="#Contributors"> Contributors </a> 
+</a>
+
 # Top 3 Enriched Pathways According to Biological Process
 
 This document explores Top 3 Enriched Pathways According to biological processes: Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process,
@@ -16,8 +23,7 @@ The gene found in both processes is the Glutathione S-transferase A1 (GSTA1) and
 Linoleic acid is an essential fatty acid that is metabolized in the human body through a number of processes. The oxidative metabolism of linoleic acid influence processes like growth factor signaling and cellular differentiation, and Role of Glutathione transferase (GST) (encoded by GST gene), is to remove these oxidation products (Seeley et al., 2006). 
 A study showed therapeutic effect of Gamma-linolenic acid on Glioblastoma cells by altering cyclooxygenase metabolism, increasing reactive oxygen species, activating caspases, and inducing apoptosis, inhibit proliferation and migration. (Miyake et al., 2020)
 
-# References
-
+> ## References
 - Desideri, E., Ciccarone, F., & Ciriolo, M. R. (2019). Targeting glutathione metabolism: partner in crime in anticancer therapy. *Nutrients*, 11(8), 1926. [Link](https://doi.org/10.3390/nu11081926)
 - Lapenna, D. (2023). Glutathione and Glutathione-dependent Enzymes: From Biochemistry to Gerontology and Successful Aging. *Ageing Research Reviews*, 102066-102066. [Link](https://doi.org/10.1016/j.arr.2023.102066)
 - Ikeda, Y., & Fujii, J. (2023). The emerging roles of Γ-Glutamyl peptides produced by Γ-Glutamyltransferase and the glutathione synthesis system. *Cells*, 12(24), 2831. [Link](https://doi.org/10.3390/cells12242831)
@@ -27,7 +33,7 @@ A study showed therapeutic effect of Gamma-linolenic acid on Glioblastoma cells 
 - Miyake, J. A., Gomes, R. N., & Colquhoun, A. (2020). Gamma-Linolenic acid alters migration, proliferation, and apoptosis in human and rat glioblastoma cells. *Prostaglandins & Other Lipid Mediators*, 150, 106452. [Link](https://doi.org/10.1016/j.prostaglandins.2020.106452)
 - Seeley, S. K., Poposki, J. A., Maksimchuk, J., Tebbe, J., Gaudreau, J., Mannervik, B., & Bull, A. W. (2006). Metabolism of oxidized linoleic acid by glutathione transferases: Peroxidase activity toward 13-hydroperoxyoctadecadienoic acid. *Biochimica Et Biophysica Acta (BBA) - General Subjects*, 1760(7), 1064–1070. [Link](https://doi.org/10.1016/j.bbagen.2006.02.020)
 
->  # Contributors
+>  ## Contributors
 |Name|Slack ID|Linkedin|
 | ----------- |----------- |----------- |
 |Ayooluwa Joseph|@Jay1079| <a href="https://www.linkedin.com/in/ayooluwa-joseph" target="_blank">	LinkedIn Profile</a> |
