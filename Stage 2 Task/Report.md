@@ -1,5 +1,4 @@
 <a align="center"> Table of Contents: </a>
-  <a href="#Introduction"> Introduction </a> | 
   <a href="#Top_3_Enriched_Pathways_According_to_Biological Process"> Pathways </a> | 
   <a href="#References"> References </a> |
   <a href="#Contributors"> Contributors </a> 
