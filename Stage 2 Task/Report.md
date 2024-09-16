@@ -2,7 +2,7 @@
 
 
 <a align="center"> Table of Contents: </a>
-  <a href="#Enriched_Pathways_According_to_Biological_Process"> Pathways </a> | 
+  <a href="#Enriched-Pathways_According-to-Biological-Process"> Pathways </a> | 
   <a href="#References"> References </a> |
   <a href="#Contributors"> Contributors </a> 
 </a>
