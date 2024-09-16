@@ -22,8 +22,7 @@ Color selection is crucial for heatmap interpretability. Diverging palettes (e.g
 
 
 >  ## Enriched Pathways According to Biological Process
-![Alternative image text](https://github.com/shalaka98/hackbio-cancer-internship/tree/d807d79a0850e8f62d983e4c75edd3e20e34267e/Stage%202%20Task/Images)
-
+![Alternative image text](https://github.com/shalaka98/hackbio-cancer-internship/raw/d807d79a0850e8f62d983e4c75edd3e20e34267e/Stage%202%20Task/Images/lollipop%20plot:%20visualization%20of%20Top%205%20Enrichment%20Pathway.png)
 
 **Top 3 Enriched Pathways includes:** Glutathione Derivative Metabolic process, Glutathione Derivative Metabolic Biosynthesis Process, the Linoleic Acid Metabolic Process
 
