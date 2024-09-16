@@ -45,7 +45,7 @@ A study showed therapeutic effect of Gamma-linolenic acid on Glioblastoma cells 
 |Name|Slack ID|Linkedin|
 | ----------- |----------- |----------- |
 |Ayooluwa Joseph|@Jay1079| <a href="https://www.linkedin.com/in/ayooluwa-joseph" target="_blank">	LinkedIn Profile</a> |
-|Edikan Umoh|@usiwomaumoh| <a href="." target="_blank">	LinkedIn Profile</a>|
+|Edikan Umoh|@usiwomaumoh| <a href="https://hackbiointern-leo4437.slack.com/archives/D07LH8HGPEH/p1726486328616209" target="_blank">	LinkedIn Profile</a>|
 |Lewis Karani|@Karani|<a href="https://www.linkedin.com/in/lewis-karani/" target="_blank">	LinkedIn Profile</a>|
 |Nishat Tamanna|@Nishat| <a href="." target="_blank">	LinkedIn Profile</a>|
 |Shalaka More|@shalaka| <a href="https://www.linkedin.com/in/shalaka-more-03277913b/" target="_blank">	LinkedIn Profile</a>  |
