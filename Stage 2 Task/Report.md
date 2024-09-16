@@ -32,6 +32,10 @@ Fig: Clustering Samples Alone
 - Clustering Both: Provides a holistic view of the data, showing relationships between genes and samples simultaneously. Useful for integrated insights into gene expression patterns and sample similarities.
 Fig:  Clustering Both
 
+![Heatmap with Clustering - Columns](Images/heatmap_col_clustering.jpg)
+![Heatmap with Clustering - Rows](Images/heatmap_row_clustering.jpg)
+![Heatmap with Clustering - both](Images/heatmap_row_clustering_pages-to-jpg-0001.jpg)
+
 
 >  ## Enriched Pathways According to Biological Process
 ![Heatmap with Diverging Color Palette](Images/visualization%20of%20Top%205%20Enrichment%20Pathway.png)
