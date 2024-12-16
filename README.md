@@ -4,5 +4,5 @@
 - [x] Stage 1 task: Review of Machine learning in lung cancer Research paper
 - [x] Stage 2 task: Visualization, Differential Expression Analysis and Downstream Analysis of Glioma Transcriptomics Count Data Using R
 - [x] Stage 3 task: ML and differential expression analysis
-- [x] Stage 4 task: *not disclosed*
+- [x] Stage 4 task: Exploring Glioma Diversity Through Machine Learning and Transcriptomic Profiling
 
